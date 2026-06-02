@@ -1,0 +1,1 @@
+This project simulates an enterprise-grade e-commerce analytics ecosystem capable of Processing customer and order transactions, Tracking inventory and cart activity.Performing advanced SQL analytics, Exposing business insights through REST APIs and visualizing KPIs using dashboards
